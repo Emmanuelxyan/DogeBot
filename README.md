@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://pbs.twimkg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Xeon" width="170" />
 
 ## Doge Bot
 
@@ -70,7 +70,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+254791977320"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
@@ -82,4 +82,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`shadowalker`](https://github.com/Emmanuelxyan)
