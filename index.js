@@ -1,6 +1,6 @@
-// Script by Xeon 
-// 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©Xeon Bot Incorporated
+// Script by shadow 
+// sʜᴀᴅᴏᴡʙᴏᴛ
+// ©sʜᴀᴅᴏᴡʙᴏᴛ Incorporated
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -373,7 +373,7 @@ const checkRegisteredUser = (sender) => {
     const totalhit = JSON.parse(fs.readFileSync("./lib/totalcmd.json"))[0]
       .totalcmd;
 const daftar1 = `Hi ${pushname} ${ucapanWaktu} \n\nBefore Using the Bot Verify First `
-       const daftar2 = '```Click the button below to verify bro or type #verify\n𝐃𝐨𝐠𝐞 𝐁𝐨𝐭```'
+       const daftar2 = '```Click the button below to verify bro or type #verify\n sʜᴀᴅᴏᴡʙᴏᴛ```'
        const daftar3 = [
           {
             buttonId: `verify`,
