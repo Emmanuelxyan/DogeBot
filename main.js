@@ -16,7 +16,7 @@ const fetch = require("node-fetch");
 const moment = require("moment-timezone");
 blocked = [];
 const { color } = require('./lib/color')
-const time2 = moment().tz("Asia/Jakarta").format("HH:mm:ss");
+const time2 = moment().tz("Africa/Nairobi").format("HH:mm:ss");
     if (time2 < "24:59:00") {
       var ucapanWaktu = "Good night";
     }
